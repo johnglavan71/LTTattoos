@@ -120,7 +120,7 @@
         <h3 class="u-align-center u-headline u-text u-text-default u-text-1">
           <a href="/">LT Tattoos</a>
         </h3>
-        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+        <nav class="u-menu u-menu-hamburger u-offcanvas u-menu-1" data-responsive-from="XL">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
             <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-hamburger-link u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
               <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
@@ -150,6 +150,14 @@
             </div>
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
+          <style class="menu-style">@media (max-width: 939px) {
+                    [data-responsive-from="MD"] .u-nav-container {
+                        display: none;
+                    }
+                    [data-responsive-from="MD"] .menu-collapse {
+                        display: block;
+                    }
+                }</style>
         </nav>
       </div></header>
     <section class="u-align-center u-clearfix u-container-align-center u-image u-valign-top u-section-1" id="sec-d33f" data-image-width="1920" data-image-height="1048">
