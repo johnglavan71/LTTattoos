@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://lttattoos.com/Home.html</loc>
-        <lastmod>2024-11-21T19:19:41-06:00</lastmod>
+        <lastmod>2024-11-25T18:57:31-06:00</lastmod>
     </url>
     <url>
         <loc>https://lttattoos.com/index.html</loc>
-        <lastmod>2024-11-21T19:19:41-06:00</lastmod>
+        <lastmod>2024-11-25T18:57:31-06:00</lastmod>
     </url>
     <url>
         <loc>https://lttattoos.com/About-Me.html</loc>
-        <lastmod>2024-11-21T00:59:39-06:00</lastmod>
+        <lastmod>2024-11-25T18:57:16-06:00</lastmod>
     </url>
     <url>
         <loc>https://lttattoos.com/Sketches.html</loc>
@@ -31,6 +31,14 @@
     <url>
         <loc>https://lttattoos.com/LegacyPosts.html</loc>
         <lastmod>2024-11-21T18:54:48-06:00</lastmod>
+    </url>
+    <url>
+        <loc>https://lttattoos.com/Contact-and-Bookings.html</loc>
+        <lastmod>2024-11-25T19:00:17-06:00</lastmod>
+    </url>
+    <url>
+        <loc>https://lttattoos.com/Page-1.html</loc>
+        <lastmod>2024-11-25T19:01:57-06:00</lastmod>
     </url>
     <url>
         <loc>https://lttattoos.com/blog/art-as-an-investment.html</loc>
@@ -74,6 +82,6 @@
     </url>
     <url>
         <loc>https://lttattoos.com/blog/blog.html</loc>
-        <lastmod>2024-11-21T19:19:44-06:00</lastmod>
+        <lastmod>2024-11-25T19:02:02-06:00</lastmod>
     </url>
 </urlset>
