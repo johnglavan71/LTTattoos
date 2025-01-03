@@ -32,25 +32,42 @@
   .u-section-1 .u-text-2 {
     width: 340px;
   }
-} .u-section-2 {
-  background-image: url("images/dantes_cross_contour__by_1012630_dgz7o1q-414w.jpg");
-  background-size: cover;
-}
-
-.u-section-2 .u-sheet-1 {
+}.u-section-2 .u-sheet-1 {
   min-height: 400px;
 }
 
-@media (max-width: 1199px) {
-   .u-section-2 {
-    background-position: 50% 47.84%;
+.u-section-2 .u-image-1 {
+  width: 832px;
+  height: 370px;
+  object-position: 50% 43.32%;
+  margin: 15px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 320px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 240px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 151px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 751px;
+  min-height: 647px;
 }
 
 .u-section-3 .u-text-1 {
-  margin: 60px auto 0;
+  margin: -44px auto 0;
 }
 
 .u-section-3 .u-gallery-1 {
@@ -82,7 +99,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 675px;
+    min-height: 571px;
   }
 
   .u-section-3 .u-gallery-1 {
@@ -92,7 +109,7 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1153px;
+    min-height: 1049px;
   }
 
   .u-section-3 .u-gallery-1 {
